@@ -1,8 +1,9 @@
 .navbar{
-    width: 110%;
+    width: 101%;
     height: 4em;
     background-color: #FCFFE7;
     margin-left: -10px;
+    border-style: solid;
     margin-right: 0px;
     margin-top: -10px;
 }
@@ -12,31 +13,44 @@
     width: 110%;
     height: 200px;
     margin-left: -10px;
+    border-style: solid;
     margin-right: -30px;
     background-color: #F6E1C3;
 }
 
-.navbar img{
+.img1{
     transform: scaleX(-1);
     height: 4em;
     width: auto;
+    border-style: solid;
     float: left;
     margin-left: -30px;
     opacity: 0.5;
+}
+.img2{
+    height: 4em;
+    width: auto;
+    float: right;
+    margin-right: -30px;
+    opacity: 0.5;
+    border-style: solid;
 }
 
 .navbar h3{
     color: black;
     float: left;
     margin-left: 55px;
-    font-size: 300%;
+    font-size: 3rem;
+    border-style: solid;
     margin-top: 5px;
  }
 
 .navbar table{
-    height: 4em;
-    width: auto;
-    padding-left: 80px;
+    height: 100%;
+    max-width: 80%;
+    padding-left: 8rem;
+    border-style: solid;
+    padding-right: 8rem;
 }
 
 .navbar table tr th{
@@ -47,4 +61,5 @@
 
 .navbar table tr{
     padding-left: 10px;
+    border-style: solid;
 }
