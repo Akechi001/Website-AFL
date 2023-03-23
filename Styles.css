@@ -1,0 +1,50 @@
+.navbar{
+    width: 110%;
+    height: 4em;
+    background-color: #FCFFE7;
+    margin-left: -10px;
+    margin-right: 0px;
+    margin-top: -10px;
+}
+
+
+.searchbar{
+    width: 110%;
+    height: 200px;
+    margin-left: -10px;
+    margin-right: -30px;
+    background-color: #F6E1C3;
+}
+
+.navbar img{
+    transform: scaleX(-1);
+    height: 4em;
+    width: auto;
+    float: left;
+    margin-left: -30px;
+    opacity: 0.5;
+}
+
+.navbar h3{
+    color: black;
+    float: left;
+    margin-left: 55px;
+    font-size: 300%;
+    margin-top: 5px;
+ }
+
+.navbar table{
+    height: 4em;
+    width: auto;
+    padding-left: 80px;
+}
+
+.navbar table tr th{
+    border-style: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbar table tr{
+    padding-left: 10px;
+}
