@@ -1,5 +1,5 @@
 .navbar{
-    width: 101%;
+    width: 100%;
     height: 4em;
     background-color: #FCFFE7;
     margin-left: -10px;
@@ -57,9 +57,44 @@
     border-style: solid;
     padding-left: 30px;
     padding-right: 30px;
+
 }
 
 .navbar table tr{
     padding-left: 10px;
+    border-style: solid;
+}
+
+.eclipse {
+    background: #A84448 ;
+    border-radius: 50%;
+    height: 183px;
+    width: 309px;
+    margin-left: 12px;
+    opacity: 0.5;
+    box-shadow: 2px 2px #A84448;
+    float: left;
+    border-style: solid;
+    margin-left: -400px;
+    margin-top: -50px;
+
+}
+.eclipse2 {
+    background: #A84448 ;
+    border-radius: 50%;
+    height: 183px;
+    width: 309px;
+    margin-left: 12px;
+    opacity: 0.5;
+    box-shadow: 2px 2px #A84448;
+    float: right;
+    border-style: solid;
+    margin-top: 80px;
+}
+
+.body{
+    background: #FCFFE7;
+    width: 100%;
+    height: 100%;
     border-style: solid;
 }
