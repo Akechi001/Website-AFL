@@ -473,3 +473,69 @@ a{
     margin-right: 50px;
 }
 
+.Product{
+    margin-top: 20px;
+    background-color: #F6E1C3;
+    border : 2px solid #A84448;
+    margin-left: 280px;
+    margin-right: 200px;
+
+}
+
+.dogProduct1{
+    width: 270px;
+    height: 386px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 2px solid #A84448;
+}
+
+.dogProduct1 img{
+    width: 223px;
+    height: 223px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.dogProduct1 p {
+    text-align: center;
+}
+
+.dogProduct2{
+    width: 270px;
+    height: 386px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 2px solid #A84448;
+}
+
+.dogProduct2 img{
+    width: 223px;
+    height: 223px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.dogProduct2 p {
+    text-align: center;
+}
+
+
+.dogProduct3{
+    width: 270px;
+    height: 386px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 2px solid #A84448;
+}
+
+.dogProduct3 img{
+    width: 223px;
+    height: 223px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.dogProduct3 p {
+    text-align: center;
+}
