@@ -11,8 +11,8 @@
 
 .img1{
     transform: scaleX(-1);
-    height: 4em;
-    width: auto;
+    height: auto;
+    width: 4em;
     float: left;
     margin-left: -30px;
     opacity: 0.5;
@@ -35,24 +35,24 @@
 
 .navbar table{
     height: 100%;
-    max-width: 80%;
+    width: auto;
     padding-left: 8rem;
     padding-right: 8rem;
 }
 
 .navbar table tr th{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 2rem;
+    padding-right: 2rem;
 
 }
 
 .navbar table tr{
-    padding-left: 10px;
+    padding-left: 1rem;
 }
 
 .imgcat img{
     background: none ;
-    height: 100px;
+    height: auto;
     width: 20%;
     margin-left: 12px;
     float: right;
@@ -62,7 +62,7 @@
 }
 .eclipse img{
     background: none ;
-    height: 100%;
+    height: auto;
     width: 20%;
     opacity: 0.5;
     float: left;
@@ -70,7 +70,7 @@
 }
 .eclipse2 img {
     background: none ;
-    height: 100%;
+    height: auto;
     width: 20%;
     margin-left: 12px;
     opacity: 0.5;
@@ -82,7 +82,8 @@
 
 
 .searchbar{
-    width: 102%;
+    width: auto;
+
     height: 200px;
     margin-left: -10px;
     margin-right: -30px;
@@ -222,7 +223,7 @@
     padding-left: 350px;
 }
 
-.content5    a{
+.content5 a{
     padding-left: 50px;
 }
 .content1 img{
@@ -244,6 +245,7 @@
     grid-column: 2;
     grid-row: 2;
     grid-column: 2/4;
+    border-style: solid;
 }
 
 .content2 img{
@@ -431,7 +433,7 @@ a{
     text-decoration: none;
 }
 
-/*About*/
+/*!*About*!*/
 .About{
     height: auto;
     width: 102%;
